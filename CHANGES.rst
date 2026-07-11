@@ -1,4 +1,4 @@
-Version 26.1 (UNRELEASED)
+Version 26.1 (2026-07-11)
 -------------------------
 
 * Added testing for Django 6.1.
